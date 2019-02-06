@@ -1,1 +1,8 @@
-Hello World. 
+Hello World.
+
+image:shadowclaws-icon.png[]
+
+UI configurator:
+
+- https://docs.antora.org/antora-ui-default/
+- https://github.com/couchbase/docs-ui
