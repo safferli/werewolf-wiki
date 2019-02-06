@@ -1,2 +1,3 @@
 # werewolf-wiki
-Files for our Werewolf The Forsaken chronicle, set in St. Petersburg
+
+Files for our _Werewolf: The Forsaken_ chronicle, set in St. Petersburg Russia. 
