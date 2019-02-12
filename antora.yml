@@ -1,5 +1,5 @@
 name: werewolf
 title: 'Werewolf: St. Petersburg'
-version: '1.0'
+version: 'veteranentreffen'
 nav:
 - modules/ROOT/nav.adoc
