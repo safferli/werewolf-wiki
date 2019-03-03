@@ -1,1 +1,3 @@
 == Wochenblatt
+
+* link:{newspaperdir}/Zeitung01.pdf[Wochenblatt 01]
