@@ -1,0 +1,147 @@
+This is a chronologically ordered list of all the pages in the [tales
+category](:Category:Tales "wikilink"). For a more detailed list of the
+acitivities between the adventures, visit the
+[Downtime](Downtime "wikilink") page.
+
+### November 2001
+
+  - The characters arrive in St. Petersburg and undergo their [First
+    Change](First_Change "wikilink"). Afterwards, they spent some time
+    learning to cope with their new life and deciding about a tribe.
+
+### January 2002
+
+  - The freshly changed werewolves form a [pack](Shadowclaws "wikilink")
+    and undergo their [Rite of
+    Initiation](Rite_of_Initiation "wikilink"), after which they are
+    [initiated](Tribe_Initiations "wikilink") into their tribes.
+
+### February 2002
+
+  - The pack starts claiming their territory, conquering their [main
+    locus](Old_radio "wikilink") from the gloomy ones.
+  - [Grigori](Grigori "wikilink") leaves for Siberia.
+  - moar?
+
+### March 2002
+
+  - The pack faces its first tough test in the
+    [battle](Fight_in_the_sewers "wikilink") against the [Great Slimy
+    One](Great_Slimy_One "wikilink").
+  - moar?
+
+### April 2002
+
+  - A long struggle with their southern neighbours culminates in the
+    [Battle against Rote Wut](Battle_against_Rote_Wut "wikilink").
+  - The pack strikes a deal with
+    [She-Who-Was-Eternally-Lost](She-Who-Was-Eternally-Lost "wikilink")
+    to save [Ivana](Ivana "wikilink"), a friend of
+    [Aleksandr](Aleksandr "wikilink")
+  - [Angus](Angus "wikilink") is
+    [initiated](Lodge_Initiations#Angus'_Lodge_Initiation "wikilink")
+    into the [Enlightened](Enlightened "wikilink") lodge.
+  - [Edouard](Edouard "wikilink") arrives in the final moments of the
+    fight against the southern pack.
+
+### Mai-June 2002
+
+  - Angus [crafts](Angus_crafting_a_Dog's_Collar "wikilink") a dog's
+    collar
+
+### Juli 2002
+
+  - Ivanas Grandfather
+    [arrives](The_old_werewolf's_last_play "wikilink") at the same time
+    as [Grigori](Grigori "wikilink") returns.
+
+### August 2002
+
+  - Angus
+    [sends](Angus_sending_a_messenger_to_Nadja's_grandfather "wikilink")
+    a message after [Yorek
+    "Howl-from-beyond"](Yorek_"Howl-from-beyond" "wikilink")
+  - Grigor [apologizes](Grigor's_contrition "wikilink") formally to the
+    pack for his previous rages
+  - Edouard [composes](The_Eternal_Guardian "wikilink") his first work
+    as a Cahalith, spreading a tale of the pack's success
+
+### September 2002
+
+  - The pack faces a [tough
+    challenge](The_fate_of_The_Bleeding_Stone "wikilink") as the [Prince
+    of the River](Prince_of_the_River "wikilink") calls in an old favor.
+  - Angus [becomes](The_Legend_of_the_Lodge_of_Enlightened "wikilink") a
+    full member of the Enlightened lodge.
+  - [Grigor](Grigor "wikilink")
+    [hunts](The_hunt_at_Autumn_Equinox "wikilink") with the [Bear
+    Hunters](Bear_Hunters "wikilink")
+  - Angus [gives](Nadja_gets_a_Rabbits_Foot "wikilink") a talen to Nadja
+  - With a concerted effort, the pack
+    [prevents](Preventing_speed_limits "wikilink") the introduction of a
+    number of speed limit zones
+
+### October 2002
+
+  - An [old family](Eristoffs "wikilink") is
+    [discovered](Breeding_Grounds#First_Episode "wikilink") in a part of
+    the city close to the pack's territory, which has been used by the
+    Pure before.
+  - The [alliance](alliance "wikilink") neutralises the threat by the
+    Pure, and the pack discovers the [reason](Rahglu "wikilink") behind
+    a number of abductions.
+  - A [memorial service](In_memory_of_Amazone "wikilink") is held for
+    [Die Amazone](Die_Amazone "wikilink"), a prominent Forsaken killed
+    in the raid by the Pure
+  - Angus [befriends](to_serve_and_protect "wikilink") Nievo
+  - The pack starts with the idea of calling themselves [Stranger
+    Neighbours](Stranger_Neighbours "wikilink") to counter the growing
+    [Neighbours for Neighbours](Neighbours_for_Neighbours "wikilink")
+    movement.
+  - Grigor [starts](The_First_Job "wikilink") recruiting young people
+    for the mafia
+  - Afterwards, they manage to
+    [gather](Breeding_Grounds#Second_Episode "wikilink") sufficient
+    forces to make a mostly successful raid on the
+    [hive](St._Nicholaus_Cathedral "wikilink"), denying the strange
+    spirits their sanctuary.
+
+### November 2002
+
+  - Angus has a blade [crafted](Claidheamh_mòr "wikilink") for himself
+  - [Evidence](Priorities "wikilink") showes up that implies the
+    [Neighbours for Neighbours](Neighbours_for_Neighbours "wikilink")
+    are up to no good
+  - The local Mafia [reacts](Repercussions "wikilink") to Neighbours for
+    Neighbours
+  - The pack [discovers](Petersburg_Wilhelmplatz "wikilink") a barren at
+    [Wilhelmplatz](Wilhelmplatz "wikilink") in their struggle to contain
+    the Rahglu, and initiates a deal to stop it from growing and
+    eventually removing it.
+  - Visions draw members from all the packs of the city to the [Twin
+    Palaces](Twin_Palaces "wikilink"), searching for an [ancient
+    horn](Shadowcall "wikilink") - initiating a
+    [plot](reality_theatre "wikilink") by the [Court of Eternal
+    Grace](Court_of_Eternal_Grace "wikilink") to win the fight over the
+    allegiance of [The Bleeding Stone](The_Bleeding_Stone "wikilink").
+  - Aleksandr tries to continue his guerilla gardening, but notices that
+    the idea might already have gotten [out of
+    hand](Christmas_Special "wikilink").
+  - Grigor learns [a new gift](A_Crash_Course "wikilink").
+  - Edouard tries to [work his way](Investors_for_Neighbours "wikilink")
+    into the Neighbours for Neighbours.
+  - Angus works to [establish](Kaffeehaus_Café "wikilink") a new café at
+    the Wilhelmplatz to restore the Hisil there.
+  - Aleksandr [applies](Disco_Fever "wikilink") for the lodge of
+    [Lightning](Lightning "wikilink")
+
+### December 2002
+
+  - Edouard is [accepted](Charity_Dinner "wikilink") into the lodge of
+    [Shepherds](Shepherds "wikilink")
+  - Angus retrieves a couple of centuries-old
+    [whisky](whisky "wikilink") bottles
+  - Edouard has anOtter [raise](About_Ex-es "wikilink") in income
+
+[Category: Werewolf](Category:_Werewolf "wikilink") [Category:
+Tales](Category:_Tales "wikilink")

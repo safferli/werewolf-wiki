@@ -1,0 +1,158 @@
+#### What is this about?
+
+Right now, in my experience, Combat in WoD quickly boils down to:
+everyone roll damage, regenerate, start over. Few dramatic things
+happen, indeed sometimes combat just drags out until one side has rolled
+enough successes. I like the nWoD system a lot, but after seeing DnD4,
+which at its core is more a tactical combat simulation than an RPG, and
+Savage Worlds, where one can effectively (and even does rather often)
+substitute a cool action for a simple attack roll, combat seems a bit
+disappointing. After Christoph said he had the same feeling, I came up
+with a few ideas to remedy that fact and put tactis back into combat.
+Werewolves fight a lot, they are supposed to fight as a pack, and that
+should involve more than just enjoying the penalty to defense an
+opponent gets for multiple attackers (more on that later).
+
+It is easy to come up with some examples where the result of a roll
+might be influenced by additional actions:
+
+  - A Rahu fighting another Werewolf could try to slam his opponent into
+    a nearby closet.
+  - A fleeing Irraka could try to topple trash cans and similar things
+    to hinder his pursuer.
+  - An Ithaeur could use a gift to create a distraction to shooting
+    enemies so he and his pack can cross the killing ground easier.
+  - While fighting a number of spirits, the Elodoth tries to lure one
+    opponent into the midst of the pack by slowly moving backwards,
+    hoping the spirit realises to late that its flanks are no longer
+    covered.
+  - When a fight erupts on the side of a big street, the Cahalith tries
+    to use the weight of his Urshul form to push an attacker into
+    traffic.
+
+Below are new rules (largely) tested by Christoph and Jan. They will
+likely be implemented at the next meeting, but are still open for
+discussion and suggestions until then.
+
+#### Stunts in Combat
+
+It is possible to try performing a stunt instead of your normal attack
+roll. This usually means you roll Attribute+Skill, minus a fitting
+Resistance if an opponent is targeted:
+
+  - The Rahu rolls his Strength+Brawl-Defense as usual, but on a success
+    he does not deal normal damage, instead slamming his opponent into
+    the closet (where he will likely take further damage and be hindered
+    next turn as determined by the GM).
+  - The Irraka rolls Wits+Composure, minus the opponents Resolve.
+    Successes achieved penalize his opponents roll this turn.
+  - The Ithaheur rolls his Gift and counts as resistance the highest in
+    the group+1. If he succeeds, all enemies take a penalty to shooting
+    attack rolls until the Gift ends.
+  - The Elodoth rolls Presence+(Intimidate or Subterfuge) - Resistance.
+    If he succeeds, he can pull the spirits into the ranks of the pack.
+  - The Cahalith rolls Strength+Size-opponent's Size (he is not trying
+    for anything subtle, simply the application of mass and power). If
+    he succeeds, he pushes the opponent into traffic. The opponent can
+    then consult the "being hit by a car"-chart to determine his fate
+    (and probably make a roll on Dex+Athletics to dodge cars, penalised
+    depending on traffic).
+
+#### Sensible usage of maps
+
+A map with figures/tokens/whatever representing characters and enemies
+will be used for larger, central battles, if it is appropriate - for
+example, for the assault on the Rahglu hive, for the attack on the Great
+Slimy One, but not for the wild chase that was the final scene in the
+battle for the Bleeding Stone.
+
+For smaller skirmishes, we won't bother, so it is unlikely the map will
+be used more than once or twice an adventure.
+
+#### Fighting Style: Wolf Form
+
+There is now a Fighting Style: Wolf Form, which can be used in both
+Urshul and Urhan. The Fighting Style offers a choice for each dot of the
+merit bought - you can choose freely at each dot. You can also buy the
+other alternative by spending 2xlevel XP.
+
+Note that all manoeuvres listed are mutually exclusive - you can not
+Exploit Advantage Grappling Bite Hamstring Overpower your Opponent while
+using your Intuitive Reflexes to avoid damage.
+
+  - \* Lurk: You have learned to circle your enemy, looking for an
+    opening while concentrating on defence. When you use Full Defence,
+    your opponent still takes the -1 Defence hit for being attacked.
+  - \* Grappling Bite: You can use your jaws to grapple an enemy,
+    forgoing precision for the chance to inflict pain. You can take a -3
+    penalty to your grapple attack. If you do so, the successes you
+    achieve cause both lethal damage and count as grapple successes.
+
+<!-- end list -->
+
+  - \*\* Hamstring: You have learned to hit where it hurts, inflicting
+    hindering injuries on your opponent. You can take a -3 penalty to
+    your attack roll. If the attack scores at least 1 success, it
+    additionally inflicts a -1 Penalty to Defence that stays until the
+    wound heals. This might not work on a number of spirits, like
+    Houses.
+  - \*\* Exploit Advantage: You have learned to use an opening in the
+    opponent's defence with terrifying swiftness and accuracy. If the
+    opponent is already at least at a -1 to Defence due to multiple
+    attackers or any other weakness (e.g. Hamstring), his Defence is at
+    an additional -1 for this attack.
+
+<!-- end list -->
+
+  - \*\*\* Jugular: Sacrificing defence, you leap at your opponent's
+    throat. You take a -2 hit to Defence to gain "9 again" on your
+    attack roll.
+  - \*\*\* Overpower: Flinging yourself at the opponent, you use raw
+    power to overwhelm him and lock him in your jaws. If you grapple an
+    opponent, you can take a -3 penalty to your grapple roll. If you
+    still succeed, you can immediately follow up with an "Overpower"
+    manoeuvre (see WoD Rulebook, pp. 157-159).
+
+<!-- end list -->
+
+  - \*\*\*\* Claw\&Bite: Who cares about defence if your opponent is
+    dead? You launch forward, making both a Claw and a Bite attack
+    against the same opponent. Your defence is 0 until your next turn.
+    Successes on the two attack rolls are added for purposes of Kuruth
+    checks.
+  - \*\*\*\* Intuitive Reflexes: You let your instincts take over,
+    dodging enemy blows while closing in for the kill. You can use the
+    higher of your Dex or Wits for Defence. In addition, you only start
+    taking penalties for multiple attackers after the second attack, not
+    after the first as usual. You can still attack normally (but not use
+    another manoeuvre).
+
+#### Pack Tactics
+
+There is now a new merit:
+
+Pack Tactics (\* to \*\*\*):
+
+You instinctively know what help your friend needs, communicating by
+mere scent and snarls and working in rarely witnessed harmony. When
+Werewolves familiar with each other (usually only packs and certain
+close-knit lodges) help another, add the highest applicable Pack Tactics
+trait of those involved to the roll. The usual restrictions still apply.
+
+To clarify, two examples:
+
+Grigor (Pack Tactics 2) and Angus (Pack Tactis 1) are helping Edouard
+(no Pack tactics) with his Persuasion by standing around looking like
+they might snap any moment. Grigor and Angus both add dice to Edourds
+roll equal to 1/3 their Presence+Intimidate (rounded real). Edourd than
+gains another 2 dice for Grigor's Pack Tactics 2 (highest applicable).
+
+Grigori (Pack Tactics 1) helps Angus (Pack Tactics 2) dig up some
+information. Angus gains a number of bonus dice on his Int+Academics
+roll equal to 1/3 of Grigoris Int+Academics total, plus another 2 for
+his Pack Tactics 2 (highest applicable). Even if Grigor (Pack Tactics 3)
+is around in the library, his lacking knowledge (no Academics) means he
+is unable to help and therefore his Pack Tactics do not count.
+
+[Category:Werewolf](Category:Werewolf "wikilink")
+[Category:Setting](Category:Setting "wikilink")

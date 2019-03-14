@@ -1,0 +1,10 @@
+A collection of the spirit-world knowledge of [Angus
+Swims-under-Ice](Angus "wikilink"). Certainly incomplete and subject to
+constant change, as usual for the spirit world. An overview is provided
+on the [Spirits](Spirits "wikilink") page.
+
+Note: Opposed to other parts on this wiki, some (perhaps even most) of
+the articles in this category are character-knowledge and may be
+inaccurate or even plain wrong.
+
+[Category:Werewolf](Category:Werewolf "wikilink")
