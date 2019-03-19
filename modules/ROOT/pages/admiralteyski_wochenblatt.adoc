@@ -2,8 +2,14 @@
 
 == Wochenblatt
 
-* link:{attachmentsdir}/newspapers/Zeitung01.pdf[Wochenblatt 01]
-
-test with newspaperdir
-
 * link:{newspaperdir}/Zeitung01.pdf[Wochenblatt 01]
+* link:{newspaperdir}/Zeitung02.pdf[Wochenblatt 02]
+* link:{newspaperdir}/Zeitung03.pdf[Wochenblatt 03]
+* link:{newspaperdir}/Zeitung04.pdf[Wochenblatt 04]
+* link:{newspaperdir}/Zeitung05.pdf[Wochenblatt 05]
+* link:{newspaperdir}/Zeitung06.pdf[Wochenblatt 06]
+* link:{newspaperdir}/Zeitung07.pdf[Wochenblatt 07]
+* link:{newspaperdir}/Zeitung08.pdf[Wochenblatt 08]
+* link:{newspaperdir}/Zeitung09.pdf[Wochenblatt 09]
+* link:{newspaperdir}/Zeitung10.pdf[Wochenblatt 10]
+* link:{newspaperdir}/Zeitung11.pdf[Wochenblatt 11]
