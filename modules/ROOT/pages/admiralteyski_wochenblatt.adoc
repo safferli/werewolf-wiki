@@ -1,3 +1,5 @@
+:newspaperdir: {attachmentsdir}/newspapers
+
 == Wochenblatt
 
 * link:{attachmentsdir}/newspapers/Zeitung01.pdf[Wochenblatt 01]
