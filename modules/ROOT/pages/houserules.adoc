@@ -35,7 +35,7 @@ However, most rolls seem to be based on denying the other side; what if _fulfill
 There is also a paragraph on personal Breaking Points which sounds promising, but will we manage to implement them?
 
 
-= Conditions
+== Conditions
 
 Ignore and apply common sense where applicable. Some Gifts/effects/etc will need additional rules. These are listed here.
 
