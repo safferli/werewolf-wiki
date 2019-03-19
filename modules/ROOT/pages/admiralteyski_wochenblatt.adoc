@@ -1,3 +1,7 @@
 == Wochenblatt
 
 * link:{attachmentsdir}/newspapers/Zeitung01.pdf[Wochenblatt 01]
+
+test with newspaperdir
+
+* link:{newspaperdir}/Zeitung01.pdf[Wochenblatt 01]

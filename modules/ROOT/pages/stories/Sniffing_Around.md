@@ -1,6 +1,6 @@
 Danil Vasiliev took a deep breath and opened the door to the youth
 centre. If his contact were to be believed, he might find what he was
-looking for here, in the south of Admiralitetsky District. A steady
+looking for here, in the south of Admiralteyski District. A steady
 stream of adolescent playground voices assaulted his ears. The warm
 hubbub was a welcome change from the December chill, at least. As he
 stepped inside, a few of the youths glanced up from their games and
