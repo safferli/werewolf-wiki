@@ -1,3 +1,5 @@
+= Werewolf: St. Petersburg
+
 Hello World.
 
 image:shadowclaws-icon.png[]

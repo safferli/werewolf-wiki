@@ -1,4 +1,4 @@
-== The Pack: *Shadowclaws*
+= The Pack: *Shadowclaws*
 
 Pack Name: **Shadowclaws**
 
@@ -18,23 +18,23 @@ Nacht](Wissendes_Auge_der_Nacht "wikilink"), a stray cat spirit
 
 == Members
 
-=== Alexandr _Talks-to-Trees_
+== Alexandr _Talks-to-Trees_
 
 include::player_characters/Aleksandr.adoc[]
 
-=== Angus _Swims-under-Ice_
+== Angus _Swims-under-Ice_
 
 include::player_characters/Angus.adoc[]
 
-=== Edouard
+== Edouard
 
 include::player_characters/Edouard.adoc[]
 
-=== Grigor _Bear's-Bane_
+== Grigor _Bear's-Bane_
 
 include::player_characters/Grigor.adoc[]
 
-=== Grigori _Open-Spaces_
+== Grigori _Open-Spaces_
 
 include::player_characters/Grigori.adoc[]
 
@@ -69,7 +69,7 @@ pack mostly manages to avoid trouble in this direction.
 
 (other mundanes and spirits still missing)
 
-=== OOC Rumours
+== OOC Rumours
 
 Some Uratha whisper stories about the pack's strange initiation rite.
 Although the truth of these stories is a bit unclear, it is said that

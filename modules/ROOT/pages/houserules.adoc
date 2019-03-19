@@ -1,11 +1,11 @@
-== Houserules
+= Houserules
 
-=== Kuruth
+== Kuruth
 
 * grab all triggers, and give bonus to Common/penalties to Specific ones?
 * should all werewolves have the same triggers, or should there be some variation?
 
-==== Additional Checks
+=== Additional Checks
 
 * All triggers at once might be a bit too many? Or do you mean all triggers of the chosen set, with +/- 2 on specific/common ones? that might work, but how does harmony then play into it?
 * Kritischer Erfolg im Angriff: Kommt seltener vor (höhere Defence), aber gerade in Gauru durchaus denkbar.
@@ -19,14 +19,14 @@ NOTE: Personal Triggers muss man max einmal pro Nacht resisten (steht so beiläu
 ---> Vorschlag: Persönliche Trigger lassen, alle aktiv mit Bonus/Abzug; general Triggers erweitern. Harmony-Einfluss: General Triggers? Eventuell die Trigger aus dem alten Werewolf wieder übernehmen, die hatten auch Bezug zur Harmony?
 
 
-=== Touchstones
+== Touchstones
 
 Touchstones are wonderful plot hooks and opportunities for meaningful interactions with the game world. We'll easily be time constrained if we have two per player, though.
 
 All players start with the same _Totem_/_Wild_ als spiritual Touchstone. Physical Touchstones are chosen individually for each character.
 
 
-=== Breaking points
+== Breaking points
 
 We'd like to increase the number of Breaking Points. The idea in Book seems to be that anything drawing you to spiritual side is BP towards Spirit, anything drawing to physical side is BP towards flesh.
 
@@ -35,7 +35,7 @@ However, most rolls seem to be based on denying the other side; what if _fulfill
 There is also a paragraph on personal Breaking Points which sounds promising, but will we manage to implement them?
 
 
-== Conditions
+= Conditions
 
 Ignore and apply common sense where applicable. Some Gifts/effects/etc will need additional rules. These are listed here.
 
@@ -46,19 +46,19 @@ If in doubt, a positive condition adds +2 to a suitable dice pool, a negative on
 * Hunter's Aspect
 
 
-=== Old Houserules
+== Old Houserules
 
-==== Botches
+=== Botches
 
 Rolling at least 50% 1s on a roll *without a single success* is a
 critical failure.
 
-==== Renown XP
+=== Renown XP
 
 Renown XP is doled out by the storyteller for specific actions and
 cannot be bought using regular XP.
 
-==== Languages
+=== Languages
 
 A score of \* in a language allows everyday conversation, and sufficient
 reading/writing to get along. A score of \*\* allows full fluency, at a
@@ -69,26 +69,26 @@ and an extensive vocabulary. With this level it is possible to fool
 almost all people into believing you are a native speaker. Most native
 speakers do not have this level of proficiency.
 
-==== Damage and Wound Penalties
+=== Damage and Wound Penalties
 
 The first health box is always without penalty. The last *two* health
 boxes are at -3, the two before that at -2 penalty. All remaining health
 boxes are at -1 penalty. The number of these boxes depends on the total
 number of health boxes available.
 
-==== Claws and Teeth Damage
+=== Claws and Teeth Damage
 
 Werewolves in Gauru form get +2(L) claws damage and +3(L) bite damage.
 Urshul claws do +0(L) damage, Urhan +0(B). Both Urshul's and Urhan's
 bite attacks are at +1(L).
 
-==== Rite of Contrition
+=== Rite of Contrition
 
 This Rite is a level 1 rite, but may only be used personally. It can not
 be performed on someone else's behalf. (The Book was unclear on the
 second part)
 
-==== Rite of the Chosen Ground
+=== Rite of the Chosen Ground
 
 This rite no longer requires a locus, it can also be performed with
 other objects as focal point. If the focal point is not a locus, the
@@ -104,13 +104,13 @@ following restrictions apply:
     for a minor god). There is no factor of 3, as the "boost" from the
     locus is lacking
 
-==== Loci
+=== Loci
 
 A locus can not be 'sucked dry' - that is just too simple a way of
 destroying it. As soon as the stored essence runs out, no more can be
 extracted.
 
-==== Helping Another
+=== Helping Another
 
 Instead of rolling when aiding another, the recipient gains a flat
 number of bonus dice equal to 1/3 the dice of his aide (rounded real).
@@ -118,7 +118,7 @@ You can not help another if you do not possess the fitting skill (even
 if you have Int 6, without Crafts you're not going to be any help
 repairing a motorcycle).
 
-==== Wolf Fighting Styles, Pack Tactics
+=== Wolf Fighting Styles, Pack Tactics
 
 See the [Pack Tactics, Tactical Combats and
 Complexity](Pack_Tactics,_Tactical_Combats_and_Complexity "wikilink")

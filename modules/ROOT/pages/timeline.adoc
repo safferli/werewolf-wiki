@@ -1,38 +1,38 @@
-== Timeline
+= Timeline
 
 This is a chronologically ordered list of all the pages in the [tales
 category](:Category:Tales "wikilink"). For a more detailed list of the
 acitivities between the adventures, visit the
 [Downtime](Downtime "wikilink") page.
 
-=== November 2001
+== November 2001
 
   - The characters arrive in St. Petersburg and undergo their [First
     Change](First_Change "wikilink"). Afterwards, they spent some time
     learning to cope with their new life and deciding about a tribe.
 
-=== January 2002
+== January 2002
 
   - The freshly changed werewolves form a [pack](Shadowclaws "wikilink")
     and undergo their [Rite of
     Initiation](Rite_of_Initiation "wikilink"), after which they are
     [initiated](Tribe_Initiations "wikilink") into their tribes.
 
-=== February 2002
+== February 2002
 
   - The pack starts claiming their territory, conquering their [main
     locus](Old_radio "wikilink") from the gloomy ones.
   - [Grigori](Grigori "wikilink") leaves for Siberia.
   - moar?
 
-=== March 2002
+== March 2002
 
   - The pack faces its first tough test in the
     [battle](Fight_in_the_sewers "wikilink") against the [Great Slimy
     One](Great_Slimy_One "wikilink").
   - moar?
 
-=== April 2002
+== April 2002
 
   - A long struggle with their southern neighbours culminates in the
     [Battle against Rote Wut](Battle_against_Rote_Wut "wikilink").
@@ -46,18 +46,18 @@ acitivities between the adventures, visit the
   - [Edouard](Edouard "wikilink") arrives in the final moments of the
     fight against the southern pack.
 
-=== Mai-June 2002
+== Mai-June 2002
 
   - Angus [crafts](Angus_crafting_a_Dog's_Collar "wikilink") a dog's
     collar
 
-=== Juli 2002
+== Juli 2002
 
   - Ivanas Grandfather
     [arrives](The_old_werewolf's_last_play "wikilink") at the same time
     as [Grigori](Grigori "wikilink") returns.
 
-=== August 2002
+== August 2002
 
   - Angus
     [sends](Angus_sending_a_messenger_to_Nadja's_grandfather "wikilink")
@@ -68,7 +68,7 @@ acitivities between the adventures, visit the
   - Edouard [composes](The_Eternal_Guardian "wikilink") his first work
     as a Cahalith, spreading a tale of the pack's success
 
-=== September 2002
+== September 2002
 
   - The pack faces a [tough
     challenge](The_fate_of_The_Bleeding_Stone "wikilink") as the [Prince
@@ -83,7 +83,7 @@ acitivities between the adventures, visit the
     [prevents](Preventing_speed_limits "wikilink") the introduction of a
     number of speed limit zones
 
-=== October 2002
+== October 2002
 
   - An [old family](Eristoffs "wikilink") is
     [discovered](Breeding_Grounds=First_Episode "wikilink") in a part of
@@ -108,7 +108,7 @@ acitivities between the adventures, visit the
     [hive](St._Nicholaus_Cathedral "wikilink"), denying the strange
     spirits their sanctuary.
 
-=== November 2002
+== November 2002
 
   - Angus has a blade [crafted](Claidheamh_mòr "wikilink") for himself
   - [Evidence](Priorities "wikilink") showes up that implies the
@@ -137,7 +137,7 @@ acitivities between the adventures, visit the
   - Aleksandr [applies](Disco_Fever "wikilink") for the lodge of
     [Lightning](Lightning "wikilink")
 
-=== December 2002
+== December 2002
 
   - Edouard is [accepted](Charity_Dinner "wikilink") into the lodge of
     [Shepherds](Shepherds "wikilink")

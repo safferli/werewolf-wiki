@@ -1,4 +1,4 @@
-== Cool stuff in the new 2.0 rules
+= Cool stuff in the new 2.0 rules
 
 * The pack is far more in focus, with Wolfblooded and other "pack members" (allies, contacts, etc) having a more important role.
 * Each of the five shapeshift forms now has a unique role to play, and unique advantages. Social skills are no longer penalised.
@@ -53,7 +53,7 @@ Pick a physical Touchstone for your character; mostly this will be a person or g
 
 NOTE: This rule also applies to your Renown XP. Note that you could gain a Renown dot if you had a high enough amount of Renown XP.
 
-Your old XP are converted to Beats on a one-to-one basis. Five Beats are one new XP. 
+Your old XP are converted to Beats on a one-to-one basis. Five Beats are one new XP.
 
 
 == Final Touches

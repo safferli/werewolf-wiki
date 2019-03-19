@@ -1,6 +1,6 @@
 :newspaperdir: {attachmentsdir}/newspapers
 
-== Wochenblatt
+= Admiralteyski Wochenblatt
 
 * link:{newspaperdir}/Zeitung01.pdf[Wochenblatt 01]
 * link:{newspaperdir}/Zeitung02.pdf[Wochenblatt 02]
