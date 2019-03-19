@@ -1,4 +1,6 @@
-= Cool stuff in the new 2.0 rules
+= Character Conversion
+
+== Cool stuff in the new 2.0 rules
 
 * The pack is far more in focus, with Wolfblooded and other "pack members" (allies, contacts, etc) having a more important role.
 * Each of the five shapeshift forms now has a unique role to play, and unique advantages. Social skills are no longer penalised.
