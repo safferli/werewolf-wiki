@@ -3,7 +3,7 @@
 This page contains a general overview of the setting and important parts
 of the saga.
 
-### City
+== City
 
 Some information on the city (in case of conflicting statements,
 information on this wiki takes precedence): [St.
@@ -45,7 +45,7 @@ The [Admiralteyski Wochenblatt](Admiralteyski_Wochenblatt "wikilink") is
 a local newspaper published somewhat irregularly in this part of the
 city.
 
-### Territory
+== Territory
 
 The packed carved out a small piece of land in western
 [Admiralteysky](http://en.wikipedia.org/wiki/Admiralteysky_District) as
@@ -57,7 +57,7 @@ this part of the city and [Grigor](Grigor "wikilink") had lived there
 for a number of years, which probably turned out be more of a problem
 than a boon.
 
-### Locus
+== Locus
 
 The pack's main [locus](old_radio "wikilink") is an information locus
 located in the newly-established environmental supervisory division of
@@ -68,7 +68,7 @@ locus. It is located in the computer of the chief of the unit. Recently,
 Angus was promoted acting chief, so the locus is actually in his own
 office now.
 
-### Dramatis Personae
+== Dramatis Personae
 
 Some of the territories inhabitants have regular Dealings with the
 werewolves, for various reasons. This is an incomplete list of important
@@ -94,7 +94,7 @@ werewolves.
 | [Andrei Wind-in-den-Straßen](Andrei_Wind-in-den-Straßen "wikilink") | Iron Master Ithaeur and ritual master, often serves as a rituals teacher to Angus                               |
 | [Die Amazone](Die_Amazone "wikilink")                               | A werewolf to the south of the pack, Cahalith and now alpha, involved with the players on a number of occasions |
 
-### Factions
+== Factions
 
 Besides the various [spirit
 courts](:Category:Angus'_Spirit_Almanac "wikilink"), there are currently
@@ -125,10 +125,3 @@ Tears](Crimson_Tears "wikilink").
 
 Almost all werewolves in the area are also part of one of the
 [lodges](lodge "wikilink") of their tribe.
-
-### Houserules
-
-The [Houserules](Houserules "wikilink") of the group.
-
-[Category: Werewolf](Category:_Werewolf "wikilink") [Category:
-Setting](Category:_Setting "wikilink")
