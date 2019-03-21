@@ -13,38 +13,53 @@ characters have, with an approximate date of publications.
 
 The Wochenblatt is owned by [Miika Kovalov](Miika_Kovalov "wikilink").
 
-* [First issue](Media:Zeitung1.pdf "wikilink"), dated around March 2002
-  - [Second issue](Media:Zeitung2.pdf "wikilink"), dated around April
-    2002
-  - [Third issue](Media:Zeitung3.pdf "wikilink"), dated around August
-    2002
-  - [Fourth issue](Media:Zeitung4.pdf "wikilink"), dated end September
-    2002
-  - [Fifth issue](Media:Zeitung5.pdf "wikilink"), dated 5th October,
-    2002
-  - [Sixth issue](Media:Zeitung6.pdf "wikilink"), dated 22nd October,
-    2002
-  - [Seventh issue](Media:Zeitung7.pdf "wikilink"), dated 27th October,
-    2002
-  - [Eigth issue](Media:Zeitung8.pdf "wikilink"), dated 2nd November,
-    2002
-  - [Ninth issue](Media:Zeitung9.pdf "wikilink"), dated 13th November,
-    2002
-  - [Tenth issue](Media:Zeitung10.pdf "wikilink"), dated 22nd November,
-    2002
-  - [Eleventh issue](Media:Zeitung11.pdf "wikilink"), dated 21th
-    December, 2002 (incomplete)
+== Publications
 
+.Admiralteyski Wochenblatt
+|===
+|Issue number|publication date|link
 
+|01
+|~March 2002
+|link:{newspaperdir}/Zeitung01.pdf[Wochenblatt 01]
 
-* link:{newspaperdir}/Zeitung01.pdf[Wochenblatt 01]
-* link:{newspaperdir}/Zeitung02.pdf[Wochenblatt 02]
-* link:{newspaperdir}/Zeitung03.pdf[Wochenblatt 03]
-* link:{newspaperdir}/Zeitung04.pdf[Wochenblatt 04]
-* link:{newspaperdir}/Zeitung05.pdf[Wochenblatt 05]
-* link:{newspaperdir}/Zeitung06.pdf[Wochenblatt 06]
-* link:{newspaperdir}/Zeitung07.pdf[Wochenblatt 07]
-* link:{newspaperdir}/Zeitung08.pdf[Wochenblatt 08]
-* link:{newspaperdir}/Zeitung09.pdf[Wochenblatt 09]
-* link:{newspaperdir}/Zeitung10.pdf[Wochenblatt 10]
-* link:{newspaperdir}/Zeitung11.pdf[Wochenblatt 11]
+|02
+|~April 2002
+|link:{newspaperdir}/Zeitung02.pdf[Wochenblatt 02]
+
+|03
+|~August 2002
+|link:{newspaperdir}/Zeitung03.pdf[Wochenblatt 03]
+
+|04
+|~September 2002
+|link:{newspaperdir}/Zeitung04.pdf[Wochenblatt 04]
+
+|05
+|October 5, 2002
+|link:{newspaperdir}/Zeitung05.pdf[Wochenblatt 05]
+
+|06
+|October 22, 2002
+|link:{newspaperdir}/Zeitung06.pdf[Wochenblatt 06]
+
+|07
+|October 27, 2002
+|link:{newspaperdir}/Zeitung07.pdf[Wochenblatt 07]
+
+|08
+|November 2, 2002
+|link:{newspaperdir}/Zeitung08.pdf[Wochenblatt 08]
+
+|09
+|November 13, 2002
+|link:{newspaperdir}/Zeitung09.pdf[Wochenblatt 09]
+
+|10
+|November 22, 2002
+|link:{newspaperdir}/Zeitung10.pdf[Wochenblatt 10]
+
+|11
+|December 21, 2002
+|link:{newspaperdir}/Zeitung11.pdf[Wochenblatt 11]
+|===
