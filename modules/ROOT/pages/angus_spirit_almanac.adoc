@@ -10,11 +10,76 @@ Note: Opposed to other parts on this wiki, some (perhaps even most) of
 the articles in this category are character-knowledge and may be
 inaccurate or even plain wrong.
 
+This is an overview of spirits and their courts in the territory of the
+[Shadowclaws](Shadowclaws "wikilink") and its vicinity. Due to the
+nature of spirits, this is necessarily incomplete and partially wrong.
+Its still nice to have it all on one page.
+
+Here is a table of the known courts and some very general (and, again,
+probably wrong) properties. Spirits are fielded under their court, if
+known. Unaligned Spirits or those whose allegiance is unknown are in a
+list below the table.
+
+Further down on this page is information on the politics between the
+courts, which is mostly speculation by the werewolves.
+
+**Spirit courts**
+
+|                                                                   |
+| :---------------------------------------------------------------: |
+|           A list of known courts in alphabetical order:           |
+|                               Name                                |
+|         [Blood of the City](Blood_of_the_City "wikilink")         |
+|             [Concrete Wood](Concrete_Wood "wikilink")             |
+|    [Court of Eternal Grace](Court_of_Eternal_Grace "wikilink")    |
+|             [Die Flüssigen](Die_Flüssigen "wikilink")             |
+|                 [Fleshmade](Fleshmade "wikilink")                 |
+|                [Grey Court](Grey_Court "wikilink")                |
+|  [Handmaidens of Bloodshed](Handmaidens_of_Bloodshed "wikilink")  |
+|                    [Legion](Legion "wikilink")                    |
+|                   [Network](Network "wikilink")                   |
+|                           Green Waters                            |
+|                    [Rahglu](Rahglu "wikilink")                    |
+|                 [Roter Hof](Roter_Hof "wikilink")                 |
+| [Spirits of Fire and Steel](Spirits_of_Fire_and_Steel "wikilink") |
+|          [Spirits of Order](Spirits_of_Order "wikilink")          |
+|           [Steel Predators](Steel_Predators "wikilink")           |
+|              [Urban Ronins](Urban_Ronins "wikilink")              |
+|              [Violent Ones](Violent_Ones "wikilink")              |
+
+**Spirits with unknow affiliation**
+
+  - [Athumu](Athumu "wikilink") - probably destroyed by the Great Slimy
+    One.
+  - [Cinema Spirit](Cinema_Spirit "wikilink") - has helped the pack
+    twice, but seems to be largely solitary. Probably heads a small
+    court. Probably not.
+  - [Daemonium](Daemonium "wikilink") - a very powerful spirit
+    representing negativ aspects of the cities history and present. Only
+    [Angus](Angus "wikilink") has heard about it.
+  - [Window-to-the-West](Window-to-the-West "wikilink") - another very
+    powerful spirit of St. Petersburg. Patron of the
+    [Enlightened](Enlightened "wikilink") lodge. Largely unknown.
+  - [The Son and the Nephew](The_Son_and_the_Nephew "wikilink") - a
+    court? two courts? two weird spirits ... what will become of them
+    now?
+
+**Politics**
+
+  - Internal Strife in Grey Court.
+  - Court of Eternal Grace on good terms with Urban Ronins.
+  - [The High Court of
+    Petersburg](The_High_Court_of_Petersburg "wikilink") - who is a
+    member, how far reaches its power?
+  - Network/Information/Order: possibly alied.
+  - Handmaidens of Bloodshed: For hire to highest bidder.
+
+
 == Spirit Courts
 
 include::asa_spirit_courts.adoc[]
 
 
-== individual Spirits
+== Individual Spirits
 
 include::asa_spirits.adoc[]

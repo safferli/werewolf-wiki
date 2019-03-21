@@ -13,3 +13,7 @@ Useful stuff:
 
 - https://github.com/fabianfnc/bocs
 - https://github.com/aerogear/antora-ui
+
+Automatic TOC:
+
+- https://gitlab.com/antora/antora-ui-default/merge_requests/56

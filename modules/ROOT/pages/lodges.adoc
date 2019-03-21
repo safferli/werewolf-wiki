@@ -1,0 +1,346 @@
+= Lodges
+
+== Overview
+
+Storm Lords::
+* [Enlightened](Enlightened "wikilink"): promote (limited) coalition
+    and helping between packs and werewolves
+* Lodge of Winter: take the Storm Lord tribal oath even further
+* Lodge of Crows: secretive and manipulative - usually members of the
+    lodge of crows do not openly flaunt their allegiance, pretending to
+    belong somewhere else instead
+Blood Talons::
+* [Blood Seekers](Blood_Seekers "wikilink"): members of this lodge
+    seek ever stronger foes, to improve their combat prowess beyond what
+    even a Blood Talon might consider sane
+* [Bear Hunters](Bear_Hunters "wikilink"): the bear hunters emphasise
+    group combat, be it with their pack or a group of trained humans
+* Skalds: a lodge devoted to learning from former battles, keeping the
+    lore of the old days and the great battles fought since the birth of
+    the forsaken
+Iron Masters::
+* [Shepherds](Shepherds "wikilink"): they see human beings as the
+    central part of their territories, and their understanding as a key
+    to successfully carry out the Forsaken's duty
+* [Lightning](Lightning "wikilink"): this lodge emphasises new
+    technology as a tool to keep their territories clean
+* [Smiths](Smiths "wikilink"): this lodge encompasses craftsmen of all
+    kind and is devoted to keeping the knowledge of old and seeking new
+    ways to apply trusted methods
+
+== Bear Hunters
+
+""
+Since time immemorial, we hunt. And since then, we have used our
+numbers as a tactic to overcome superior foes. The fact that we still do
+so today is more than proof for the effectiveness of a pack against
+unorganised foes. It is the essence of our existence. To be a Bear
+Hunter means to live in the oldest tradition of warriors on earth.
+""
+
+The Bear Hunters are a very ancient [lodge](lodge "wikilink") of Blood
+Talons in the area of Scandinavia and northern Russia, with traditions
+reaching back to the warrior tribes that inhabited the area during the
+stone age and earlier. They emphasise working together to achieve a
+goal, true to the saying 'the sum is greater than its parts'. While the
+Bear Hunters are usually fierce warriors, they acknowledge that combat
+is only the last step of a successful hunt. A good group of warriors
+employing pack tactics will often have won before actual fighting takes
+place, simply by stacking the odds high enough in their favour. The Bear
+Hunters are very proud of their old roots, and claim that many of their
+traditions and ceremonies have not changed in ten thousand years. Bear
+Hunters are usually highly valued pack members, as they raise the
+efficiency of the entire pack while on the hunt. Packs consisting
+entirely of Bear Hunters are a part of local werewolf legends, and
+usually credited with feats that would be considered impossible for
+their numbers.
+
+Bear Hunters are known to provide various advantages to their pack
+members, employing tactics learned at the regular gatherings of the
+lodge. Only few of these tactics involve direct combat - many deal with
+preparing the battle ground and steering the prey into a position where
+it can neither escape nor properly defend itself.
+
+The Bear Hunters are a very proud tribe, and they would never allow
+outsiders to jugde themselves if they are ready to join the lodge.
+Therefore, it is impossible to ask for membership - one has to receive
+an invitation from within the lodge. That being sad, there are
+[ways](Lodge_Initiations#Grigor's_Lodge_Initiation "wikilink") to
+expedite such an invitation.
+
+The lodge regularly meets for set traditional occasions, often to
+[hunt](The_hunt_at_Autumn_Equinox "wikilink") together.
+
+Mechanical Benefits: Initiates of the Bear Hunters gain the Mentor merit
+at one dot, as they are given an older member to help in their
+integration process (and judge their progress).
+
+Members of the Bear Hunters can learn the Pack Tactics merit as well as
+one Fighting Style (their choice) at reduced cost, due to the constant
+training in team combat. They also pay one dot less for the Socialize
+skill, as they are more used to company than many other werewolves.
+Lastly, they have access to some talens that the lodge produces at its
+regular gatherings. Members can expect to be provided with roughly one
+talen per year from these meetings.
+
+== The Alliance
+
+The werewolves in central St. Petersburg have formed a loose alliance.
+As usual among werewolves, the term 'alliance' has to be treated with
+care: All that is asked is that the packs let the 'high jugde' of the
+alliance settle territorial conflicts among them before they get out of
+hand. Some werewolves, especially those of the
+[Enlightened](Enlightened "wikilink") Lodge of the Storm Lords, feel
+that even more cooperation would be preferable. However, they admit that
+even this small alliance is something to be treasured, given the nature
+of werewolves.
+
+The reason most packs join the alliance is that St. Petersburg was in
+the hands of the Pure until a few years ago, when a joint effort - led
+by [Victor Flammendes-Schwert](Victor_Flammendes-Schwert "wikilink") -
+of the Forsaken drove them out of the city. Now, they are in the
+outskirts and in the wilderness to the east, constantly trying to take
+the city back from the Forsaken. Rumour has it that the [Peter and Paul
+fortress](http://en.wikipedia.org/wiki/Peter_and_Paul_fortress) contains
+a powerful locus home to a spirit of immense value to werewolves, but
+the pack holding the territory ([Schatten der
+Zaren](Schatten_der_Zaren "wikilink")) does not reveal what exactly it
+is. Other rumour says that all members of the Enlightened Lodge are
+privy to those secrets, but sworn to not even share them with their
+pack.
+
+Whatever resides there, the Pure want it badly, and as they outnumber
+the Forsaken, the packs of the alliance cannot let infighting weaken
+them too much or else the Pure will strike a killing blow.
+
+== Blood Seekers
+
+""
+Do you know why our tribe carries it's name? It was Fenris-Ur who said
+he would accept only those who could bathe their talons in the blood of
+a true god. This is what we stand for. To truly reach your full
+potential in combat, you must strive for this one goal Fenris-Ur gave
+us.
+""
+
+The [lodge](lodge "wikilink") of Blood Seekers is a loose association of
+Blood Talons around the world, who share one common philosophy: To be a
+warrior means to constantly seek greater challenges, stronger foes to
+best. Some packs value a Blood Seeker member for his contribution to the
+overall fighting strength of the pack, while others - especially those
+preferring a less direct approach - seem hesitant to accept someone in
+their ranks whose highest goal in life is combat. The Blood Seekers are
+often seen as the cliché of a Blood Talon, warriors who care for little
+else but the thrill of melee - yet noone who ever witnessed a Blood
+Seeker in battle can deny that some of them might truly have reached
+their goal: The Blood Seekers are hands down the best fighters among the
+Uratha in single combat. It is, after all, what they live for.
+
+Blood Seekers constantly seek stronger enemies against which they can
+measure themselves, and it is said that they possess strange Gifts that
+allow them to find their foes, and to push their fighting prowess to a
+point where they actually can take on stronger foes with a hope of
+success.
+
+
+== Enlightened
+
+""
+You ever wondered how humans managed to conquer the earth, despite all
+their physical shortcomings? They work together. No matter if they see a
+common purpose or follow someone out of fear or love, that is their
+strength. And it's about damn time we learn that, too.
+""
+
+The Enlightened are a [lodge](lodge "wikilink") of Storm Lords in St.
+Petersburg. Most see them as relatively new -- a product of the
+[alliance](alliance "wikilink") forged by [Victor
+Flammendes-Schwert](Victor_Flammendes-Schwert "wikilink") -- but there
+are rumours that it is based on a much older organisation. The lodge is
+mostly noted for keeping the alliance intact, and most packs of the
+alliance have an Enlightened member, who more often than not is the
+alpha.
+
+The members of the lodge see themselves as diplomats, collectors of
+knowledge and political leaders. Initiates have to prove themselves in
+these field to gain full access to the inner secrets of the lodge. What
+exactly these are is unknown, but it seems that a powerful spirit has
+allied itself with the lodge and grants several benefits.
+
+The Lodge will never ask anyone to join, as this would be considered a
+sign of weakness. Instead, interested Storm Lords can announce their
+intention to join the Lodge, upon which they will be subjected to a
+[trial](Lodge_Initiations#Angus'_Lodge_Initiation "wikilink").
+
+Upon being accepted into the lodge, [Angus](Angus "wikilink") is now an
+Initiate of the Enlightened, which provides him with the free Merit
+Allies(Enlightened) 1.
+
+As laid out by [Victor
+Flammendes-Schwert](Victor_Flammendes-Schwert "wikilink"), to advance in
+the lodge the young Storm Lord has to carry out the duties the Lodge
+imposes upon their members:
+
+  - *Librarian's Duty*: contribute an important piece of knowledge or
+    wisdom to the lodge's ken.
+      - The pack's totem attests that by relating the story about the
+        struggle for the
+        [fate](The_fate_of_The_Bleeding_Stone "wikilink") of the spirit
+        [Bleeding Stone](The_Bleeding_Stone "wikilink"), Angus has
+        fulfilled this duty.
+  - *Leader's Duty*: show your willingness to lead by successfully
+    leading others through a dangerous situation.
+      - By leading his pack through the troubles while [hunted by
+        mortals](The_fate_of_The_Bleeding_Stone "wikilink"), Angus has
+        fulfilled this duty in the pack totem's eyes. While he had the
+        perfect place to hide and direct their efforts, he instead chose
+        to come out and lead directly, thereby exposing him to great
+        danger.
+  - *Diplomat's Duty*: show your prowess in dealing with mortals,
+    spirits or other supernaturals.
+      - The pack's totem attests that Angus has fulfilled this duty
+        during his [creation of a Dog's
+        Collar](Angus_crafting_a_Dog's_Collar "wikilink").
+
+Once a member has completed those duties -- witnessed and attested by
+his pack totem -- he will gain access to the
+[secrets](The_Legend_of_the_Lodge_of_Enlightened "wikilink") of the
+lodge.
+
+Membership in the lodge has the following mechanical benefits:
+
+  - Due to their totem and the dedication of the lodge to their task,
+    members pay only two instead of three XP per dot for the Occult,
+    Politics and Persuasion skills.
+  - The extensive collection of local tales and legends grants a +2
+    bonus on extended research rolls. The lodge's totem is free to
+    charge a favour for access, though.
+
+Known members of the lodge include:
+
+  - [Victor Flammendes-Schwert](Victor_Flammendes-Schwert "wikilink"),
+    High Judge of the lodge and the [alliance](alliance "wikilink") it
+    seeks to keep together, alpha of [Schatten der
+    Zaren](Schatten_der_Zaren "wikilink")
+  - [Yossif Kradow](Yossif_Kradow "wikilink"), an Irraka who prefers to
+    stay in the background, also a member of Schatten der Zaren
+  - [Vanya Sokolow](Vanya_Sokolow "wikilink"), the stern alpha of
+    [Litanei der Straßen](Litanei_der_Straßen "wikilink")
+  - [Dima Kochegarov](Dima_Kochegarov "wikilink"), a Cahalith who seems
+    to be the living record of the lodge and its lore; also a member of
+    Litanei der Straßen
+  - [Angus](Angus "wikilink"), alpha of the
+    [Shadowclaws](Shadowclaws "wikilink")
+
+There are likely a few more members from packs a bit further from the
+city center, who have not yet made an appearance in the story.
+
+== Smiths
+
+The [lodge](lodge "wikilink") of smiths is an association of Iron
+Masters who are close in spirit to the name of their tribe. They are
+craftsmen, preserving the old arts and looking for ways to apply them to
+the modern world. Their seem to be no members of the lodge within St.
+Petersburg.
+
+[Smauri "Forgesoul" Ivarrson](Smauri_"Forgesoul"_Ivarrson "wikilink") is
+a famous Iron Master of this lodge, specialising on the production of
+weapons for fetishes.
+
+
+== Lightning
+
+""
+Unseen, yet always present - as the electricity running through this
+city. Electricity is what defines the modern world, the one we live in.
+It can keep you warm at night, or it can strike you down as a
+thunderbolt from an unseen direction.
+""
+
+The [lodge](lodge "wikilink") of Lightning is a community of Iron
+Masters all around the world, who dedicate themselves to understanding
+the impact modern technology has made on the lives of the werewolves and
+the duty of the Forsaken. For a long time, technological progress was
+slow to non-existent, but in the last two centuries almost everything
+has changed. This does not only affect the lives of humans - it also has
+vast consequences for the spirit world, especially in the cities of the
+modern world. Understanding these consequences is of the utmost
+importance if one wants to keep the inhabitants of a city's Hisil on
+their side of the gauntlet.
+
+Werewolves of the lodge of Lightning have a good understanding of modern
+technology, and are known to teach those skills among themselves. They
+are rumoured to possess gifts from spirits most other werewolves haven't
+even heard about yet.
+
+[Aleksandr](Aleksandr "wikilink") has applied for the lodge, leading to
+a very uncommon [night out](Disco_Fever "wikilink").
+
+== Blood Seekers
+
+""
+Do you know why our tribe carries it's name? It was Fenris-Ur who said
+he would accept only those who could bathe their talons in the blood of
+a true god. This is what we stand for. To truly reach your full
+potential in combat, you must strive for this one goal Fenris-Ur gave
+us.
+""
+
+The [lodge](lodge "wikilink") of Blood Seekers is a loose association of
+Blood Talons around the world, who share one common philosophy: To be a
+warrior means to constantly seek greater challenges, stronger foes to
+best. Some packs value a Blood Seeker member for his contribution to the
+overall fighting strength of the pack, while others - especially those
+preferring a less direct approach - seem hesitant to accept someone in
+their ranks whose highest goal in life is combat. The Blood Seekers are
+often seen as the cliché of a Blood Talon, warriors who care for little
+else but the thrill of melee - yet noone who ever witnessed a Blood
+Seeker in battle can deny that some of them might truly have reached
+their goal: The Blood Seekers are hands down the best fighters among the
+Uratha in single combat. It is, after all, what they live for.
+
+Blood Seekers constantly seek stronger enemies against which they can
+measure themselves, and it is said that they possess strange Gifts that
+allow them to find their foes, and to push their fighting prowess to a
+point where they actually can take on stronger foes with a hope of
+success.
+
+
+
+== Shepherds
+
+""
+Your herd is your territory. Your territory is your herd. As a
+shepherd you watch over them, known, but not recognized.
+""
+
+The [lodge](lodge "wikilink") of Shepherds is one of the Iron Master
+Lodges that are present in the area of St. Petersburg. Its members are
+spread all over Europe and Russia. The emphasis of the lodge of
+Shepherds is understanding the humans in your territory -- what drives
+them, what do they fear, what do they long for? As humans are the most
+prominent source of essence, a deep understanding of the human part of
+your territory can make managing the Hisil a lot easier.
+
+It is known that the Shepherds possess some rituals and fetishes that
+help them stay in touch with their herd. No precise details are known
+outside the lodge, though. The Shepherds also seem to value social
+skills highly and have little problem learning them from each other.
+
+The Shepherds [take
+in](Lodge_Initiations#Edouard's_Lodge_Initiation "wikilink") any Iron
+Masters that turn up. Initiates gain a mentor, often
+[Andrej](Andrei_Wind-in-den-Straßen "wikilink") himself, represented by
+the merit Mentor 1. They are then told to show they can understand
+humanity, and that they need not make too much of an effort - the lodge
+will know when they are ready.
+
+After working his way into the social elite and gaining access to the
+sponsors of Neighbours for Neighbours, Edouard was
+[accepted](Charity_Dinner "wikilink") into the lodge by his mentor
+[Vanka Iosiforna](Vanka_Iosiforna "wikilink").
+
+
+== Lodge Initiations
+
+include::lodge_initiations.adoc[]
