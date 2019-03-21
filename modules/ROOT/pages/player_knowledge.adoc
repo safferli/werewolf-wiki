@@ -1,1 +1,160 @@
 = Player knowledge
+
+== Renown
+
+Renown is a measure of how well-known and well-respected a werewolf is,
+in particular among spirits. While they hate and often fear werewolves,
+spirits still acknowledge the power and wisdom of the half-breeds.
+
+Renown is split into five fields, each representing a particular virtue
+respected in the Hisil. The more a werewolf is respected in a particular
+field, the stronger the gifts that spirits are willing to teach him. The
+more total renown a werewolf has, the higher his rank amongst spirits -
+some legendary werewolves are even rumoured to be respected as minor
+gods, though few if any have even met such a paragon of Renown.
+
+Renown is gained through living by certain standards. Rarely is a single
+act enough to earn a new rank of Renown, and most werewolves choose to
+focus on two or three of the five categories. To simulate this, the
+group awards 'Renown-XP' at the end of sessions. There is also the
+possibility to tell of some personal feat by making an entry on this
+fine Wiki. This can gain up to one Renown XP between two sessions. The
+five kinds of renown, and ways to earn them by making an entry, are as
+following:
+
+=== Cunning
+
+Unconventional solutions, new ideas, a successful indirect approach.
+Possible ways to gain a Cunning XP are spreading tales of one's personal
+feats (as the deception of St. Petersburg official in the investigations
+surrounding Grigor's Rage), protecting the Oath indirectly (for example,
+by discrediting rumours about wolf sightings, as were even in the papers
+once - one could write an article by the character, or a tale how an
+'investigation' led astray by a werewolf produced wrong results, or even
+how a lawsuit filing for 'causing public unrest' condemned the newspaper
+to pay a fine for their unbased claims), or simply a new way to see
+things (for example, the fight between Rote Wut and the Shadowclaws was
+also a fight between two different criminal organisations in St.
+Petersburg - but which one was the cause?).
+
+=== Glory
+
+Winning a victory, possibly for higher goals than self-interest, or
+telling a tale of big achievments (not necessarily one's own). Possible
+ways to gain a Glory XP are telling a good story (like the
+[tale](The_Eternal_Guardian "wikilink") of
+[Edouard](Edouard_Lambert "wikilink") about the pack's latest
+adventures), spreading tales about the noble motivations of one's latest
+victory (like not having killed the old man and instead going for the
+undoubtably tougher enemy, only not to hurt
+[Nadja](Nadja_Ivanetsch "wikilink")'s feelings), or inspiring other
+forsaken by giving an example of 'good' actions (as retelling how
+Grigori made the long voyage from Siberia towards a pack he left,
+because he still felt a duty towards them).
+
+=== Honour
+
+Fulfilling one's duty or oaths, uncovering lies and falsehood. Possible
+ways to gain an Honour XP are telling a tale of one's honourable
+behaviour (for example, how Grigor was the last one to retreat before
+the stone knights in the strange castle, to make up for his earlier
+blunder), spreading stories about how oneself or one's pack fulfilled an
+oath no matter what the cost, and even if there were simple ways out, or
+simply reflecting about ones behaviour (e.g., make an entry about what
+the character thinks about the recent events, and how he justifies his
+behaviour, and where he thinks he went wrong).
+
+=== Purity
+
+Adhering to the principles of harmony. Possible ways to gain a Purity XP
+are telling a story how oneself stayed true to the oath, even if it was
+inconvenient and 'unnecessary' (e.g., how one held a tenet that would
+have been above the Sin threshold despite adversities), reflecting on
+the upholding of the oath (writing an entry how the character thinks
+about the recent events, where and why they went against the oath - and
+how it could have been avoided) or simply spreading tales of one's
+self-restraint and 'harmonious' behaviour.
+
+=== Wisdom
+
+Application and gathering of knowledge. Possible ways to gain a Wisdom
+XP are forging new pieces of lore (for example, write a story about the
+strange mirrors as it could be told from master to student), telling
+stories about one's own wisdom (for example, how Angus applied a
+variation of a known rite to cleanse the locus - this could also be a
+description of the rite) and reflecting on the true reasons behind
+recent events (make an entry about how the character thinks about the
+recent events, and the wisdom of the actions they took - as well known,
+in hindsight one is usually wiser\!).
+
+I hope this helps a bit. These are only suggestions, so as a general
+guideline anything vaguely associated would do. In fact, you would have
+to mess up quite heavily to not be awarded an XP : )
+
+
+
+== Coyote Intercom
+
+Some time ago, in some very different place, there was a pack of Uratha
+that had a coyote as its totem. One of the benefits for that pack was
+that the totem allowed the pack members to communicate with each other
+over some distances, and the Uratha sometimes referred to this as Coyote
+Intercom.
+
+Some beings believe that traces of [Coyote
+Intercom](https://hanners.pintsize.de/muclogs/coyoteintercom@conference.pintsize.de/)
+might still linger in the spirit world and that it could be used by
+revealing the exact phrase "Wissendes Auge der Nacht" to the spirit who
+is guarding that place.
+
+
+== Werewolf Drinking Game
+
+- Character drinks vodka: player drinks a shot of vodka
+- Character spends last Willpower point: shot of rum
+- Character spends last Essence point: shot of tequila
+- Character absorbs Essence from a locus: shot of acquavit
+- All players must drink at least one "Russian" during the session, or
+  they get no XP\! Christoph (Angus) and Martin (Edouard) may drink
+  whisky or something French, respectively, instead.
+- The SG has to drink a Presidente at some point, but apart from that,
+  he drinks whatever he damn well likes, and the players fetch/prepare
+  it for him. He may optionally apply any of these rules to his NPCs.
+- Character goes into Kuruth: Red Cloud
+- Character goes into fox frenzy: Pink Pussycat
+- Character returns to Hishu after Rage: shot of After Shock followed
+  by a Whiteout
+- Loss of Harmony: Mad Dog
+- Entry into Spirit World for the first time in the session: Absinthe
+  / Absinthe cocktail
+- 8 or more successes on a roll: Perfect Cocktail
+- Character gets into a gunfight: Smith & Wesson
+- Character uses heavy weapons (grenade, mortar, etc.) in a fight:
+  B-52
+- Character has an exceptional success with brawl: Picasso
+- Character (most likely Grigor) KO's someone: Planter's Punch
+- Killing an innocent bystander (M): Harvey Wallbanger
+- Killing an innocent bystander (F): Lady Killer
+- Character imprisoned or held hostage: Tequila Slammer
+- Exceptional success on Socialize roll: Martini
+- Character gets laid: Slow Comfortable Screw
+- Exceptional success on a Crafts roll: Screwdriver
+- Failed Crafts roll: Monkey Wrench
+- Botched Crafts roll: Monkey Wrench followed by a Rusty Nail
+- Exceptional success on an Athletics roll: Grasshopper
+- Botched Athletics roll: Pick-Me-Up
+- Character successfully does "Mighty Bound": Kangaroo (or Flying
+  Grasshopper)
+- Any activity undertaken on water: Pilot Boat
+- Failed Survival roll due to cold: Snowball
+- Exceptional success on Survival roll due to cold: Rite of Winter
+- Successful pack hunt: shot of Jägermeister (the pack alpha drinks
+  first)
+- Character (most likely Angus) hunts in the water: Blue Shark
+- Essence gain due to moon: Moonlight
+- Yet uncategorized botch: Pathetic
+- New pack alpha or increase in Status dots: Coronation
+- Climactic death of a major enemy: Adios Motherfucker
+- After gaining XP on the last session: Nice Adventure
+- Character has not done anything in the last 2 hours or more which
+  merits a drink: Long Island Iced Tea
